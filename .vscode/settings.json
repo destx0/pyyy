@@ -1,0 +1,9 @@
+{
+  "cph.general.defaultLanguage": "python",
+  "python.analysis.typeCheckingMode": "basic",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#392B15",
+    "titleBar.activeBackground": "#503C1D",
+    "titleBar.activeForeground": "#FDFBF9"
+  }
+}
